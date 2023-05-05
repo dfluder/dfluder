@@ -1,6 +1,6 @@
 # Hi there, My name is Daniel👋 
 
-## I'm a Web Developer, based in Poland 🇵🇱
+# I'm a Web Developer, based in Poland 🇵🇱
 
 - 🌱 I’m currently learning everything  (that will never change i guess) 🤣
 - 👯 I’m looking to collaborate with other people to level-up my skills!
