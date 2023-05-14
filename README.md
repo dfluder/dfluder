@@ -1,12 +1,6 @@
 # Hi there, My name is Daniel👋 
 
-# I'm a Web Developer, based in Poland 🇵🇱
-
-- 🌱 I’m currently learning everything  (that will never change i guess) 🤣
-- 👯 I’m looking to collaborate with other people to level-up my skills!
-- 🥅 2023 Goals: Learn more about react/web3
-- ⚡ Fun fact: I love to make music and play video games 🎮
-- 🌎 www.dfluder.dev (SOON)
+# I'm a Web Developer.
 
 #### Languages and Tools:
 
